@@ -7,3 +7,7 @@
 ``` python
 print('hello');
 ```
+
+- [ ] Morirme
+- [ ] Matahme
+- [x] Sobrevivir
